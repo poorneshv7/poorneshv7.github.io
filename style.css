@@ -68,8 +68,6 @@ footer {
     font-style: italic;
 }
 
-/* Products Section Styling */
-
 .products-section {
   max-width: 800px;
   margin: 50px auto 0 auto; 
@@ -119,7 +117,6 @@ footer {
   margin: 0;
 }
 
-/* Buy Now Button Styling */
 .buy-btn {
   background-color: transparent;
   color: rgb(62, 155, 185);
@@ -134,14 +131,12 @@ footer {
   transition: background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
 }
 
-/* Hover Effect */
 .buy-btn:hover {
   background-color: rgb(62, 155, 185);
   color: black;
   transform: translateY(-2px);
 }
 
-/* Active Click Effect */
 .buy-btn:active {
   transform: translateY(0);
 }
